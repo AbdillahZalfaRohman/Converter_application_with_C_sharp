@@ -1,0 +1,61 @@
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.AssemblyReference.cache
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.SuggestedBindingRedirects.cache
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Form1.resources
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Properties.Resources.resources
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.GenerateResource.cache
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CoreCompileInputs.cache
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe.config
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.pdb
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe
+E:\mediaplayer project\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.pdb
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe.config
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.pdb
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.AssemblyReference.cache
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.SuggestedBindingRedirects.cache
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Form1.resources
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Properties.Resources.resources
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.GenerateResource.cache
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CoreCompileInputs.cache
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.pdb
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.menu.resources
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe.licenses
+E:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CopyComplete
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.AssemblyReference.cache
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Form1.resources
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.menu.resources
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Properties.Resources.resources
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.GenerateResource.cache
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe.licenses
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CoreCompileInputs.cache
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.pdb
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe.config
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.pdb
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\USB Drive\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CopyComplete
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe.config
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.exe
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\bin\Debug\Zalfa Converter.pdb
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.AssemblyReference.cache
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Form1.resources
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.menu.resources
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa_Converter.Properties.Resources.resources
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.GenerateResource.cache
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe.licenses
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CoreCompileInputs.cache
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.csproj.CopyComplete
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.exe
+C:\Users\Abdillah Zalfa R\Documents\Zalfa Converter\Zalfa Converter\obj\Debug\Zalfa Converter.pdb
